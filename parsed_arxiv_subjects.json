@@ -1,0 +1,1514 @@
+[
+  {
+    "short_name": "physics.acc-ph",
+    "long_name": "Accelerator Physics",
+    "description": "Accelerator theory and simulation",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/physics.acc-ph/new"
+      }
+    ],
+    "main_category": "physics"
+  },
+  {
+    "short_name": "physics.ao-ph",
+    "long_name": "Atmospheric and Oceanic Physics",
+    "description": "Atmospheric and oceanic physics and physical chemistry, biogeophysics, and climate science",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/physics.ao-ph/new"
+      }
+    ],
+    "main_category": "physics"
+  },
+  {
+    "short_name": "physics.app-ph",
+    "long_name": "Applied Physics",
+    "description": "Applications of physics to new technology, including electronic devices, optics, photonics, microwaves, spintronics, advanced materials, metamaterials, nanotechnology, and energy sciences",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/physics.app-ph/new"
+      }
+    ],
+    "main_category": "physics"
+  },
+  {
+    "short_name": "physics.atm-clus",
+    "long_name": "Atomic and Molecular Clusters",
+    "description": "Atomic and molecular clusters, nanoparticles: geometric, electronic, optical, chemical, magnetic properties, shell structure, phase transitions, optical spectroscopy, mass spectrometry, photoelectron spectroscopy, ionization potential, electron affinity, interaction with intense light pulses, electron diffraction, light scattering, ab initio calculations, DFT theory, fragmentation, Coulomb explosion, hydrodynamic expansion",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/physics.atm-clus/new"
+      }
+    ],
+    "main_category": "physics"
+  },
+  {
+    "short_name": "physics.atom-ph",
+    "long_name": "Atomic Physics",
+    "description": "Atomic and molecular structure, spectra, collisions, and data",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/physics.atom-ph/new"
+      }
+    ],
+    "main_category": "physics"
+  },
+  {
+    "short_name": "physics.bio-ph",
+    "long_name": "Biological Physics",
+    "description": "Molecular biophysics, cellular biophysics, neurological biophysics, membrane biophysics, single-molecule biophysics, ecological biophysics, quantum phenomena in biological systems (quantum biophysics), theoretical biophysics, molecular dynamics/modeling and simulation, game theory, biomechanics, bioinformatics, microorganisms, virology, evolution, biophysical methods",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/physics.bio-ph/new"
+      }
+    ],
+    "main_category": "physics"
+  },
+  {
+    "short_name": "physics.chem-ph",
+    "long_name": "Chemical Physics",
+    "description": "Experimental, computational, and theoretical physics of atoms, molecules, and clusters - Classical and quantum description of states, processes, and dynamics; spectroscopy, electronic structure, conformations, reactions, interactions, and phases",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/physics.chem-ph/new"
+      }
+    ],
+    "main_category": "physics"
+  },
+  {
+    "short_name": "physics.class-ph",
+    "long_name": "Classical Physics",
+    "description": "Newtonian and relativistic dynamics; many particle systems; planetary motions; chaos in classical dynamics",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/physics.class-ph/new"
+      }
+    ],
+    "main_category": "physics"
+  },
+  {
+    "short_name": "physics.comp-ph",
+    "long_name": "Computational Physics",
+    "description": "All aspects of computational science applied to physics",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/physics.comp-ph/new"
+      }
+    ],
+    "main_category": "physics"
+  },
+  {
+    "short_name": "physics.data-an",
+    "long_name": "Data Analysis, Statistics and Probability",
+    "description": "Methods, software and hardware for physics data analysis: data processing and storage; measurement methodology; statistical and mathematical aspects such as parametrization and uncertainties",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/physics.data-an/new"
+      }
+    ],
+    "main_category": "physics"
+  },
+  {
+    "short_name": "physics.ed-ph",
+    "long_name": "Physics Education",
+    "description": "Report of results of a research study, laboratory experience, assessment or classroom practice that represents a way to improve teaching and learning in physics",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/physics.ed-ph/new"
+      }
+    ],
+    "main_category": "physics"
+  },
+  {
+    "short_name": "physics.flu-dyn",
+    "long_name": "Fluid Dynamics",
+    "description": "Turbulence, instabilities, incompressible/compressible flows, reacting flows",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/physics.flu-dyn/new"
+      }
+    ],
+    "main_category": "physics"
+  },
+  {
+    "short_name": "physics.gen-ph",
+    "long_name": "General Physics",
+    "description": "",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/physics.gen-ph/new"
+      }
+    ],
+    "main_category": "physics"
+  },
+  {
+    "short_name": "physics.geo-ph",
+    "long_name": "Geophysics",
+    "description": "Atmospheric physics",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/physics.geo-ph/new"
+      }
+    ],
+    "main_category": "physics"
+  },
+  {
+    "short_name": "physics.hist-ph",
+    "long_name": "History and Philosophy of Physics",
+    "description": "History and philosophy of all branches of physics, astrophysics, and cosmology, including appreciations of physicists",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/physics.hist-ph/new"
+      }
+    ],
+    "main_category": "physics"
+  },
+  {
+    "short_name": "physics.ins-det",
+    "long_name": "Instrumentation and Detectors",
+    "description": "Instrumentation and Detectors for research in natural science, including optical, molecular, atomic, nuclear and particle physics instrumentation and the associated electronics, services, infrastructure and control equipment",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/physics.ins-det/new"
+      }
+    ],
+    "main_category": "physics"
+  },
+  {
+    "short_name": "physics.med-ph",
+    "long_name": "Medical Physics",
+    "description": "Radiation therapy",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/physics.med-ph/new"
+      }
+    ],
+    "main_category": "physics"
+  },
+  {
+    "short_name": "physics.optics",
+    "long_name": "Optics",
+    "description": "Adaptive optics",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/physics.optics/new"
+      }
+    ],
+    "main_category": "physics"
+  },
+  {
+    "short_name": "physics.plasm-ph",
+    "long_name": "Plasma Physics",
+    "description": "Fundamental plasma physics",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/physics.plasm-ph/new"
+      }
+    ],
+    "main_category": "physics"
+  },
+  {
+    "short_name": "physics.pop-ph",
+    "long_name": "Popular Physics",
+    "description": "",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/physics.pop-ph/new"
+      }
+    ],
+    "main_category": "physics"
+  },
+  {
+    "short_name": "physics.soc-ph",
+    "long_name": "Physics and Society",
+    "description": "Structure, dynamics and collective behavior of societies and groups (human or otherwise)",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/physics.soc-ph/new"
+      }
+    ],
+    "main_category": "physics"
+  },
+  {
+    "short_name": "physics.space-ph",
+    "long_name": "Space Physics",
+    "description": "Space plasma physics",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/physics.space-ph/new"
+      }
+    ],
+    "main_category": "physics"
+  },
+  {
+    "short_name": "math.AC",
+    "long_name": "Commutative Algebra",
+    "description": "Commutative rings, modules, ideals, homological algebra, computational aspects, invariant theory, connections to algebraic geometry and combinatorics",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.AC/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "math.AG",
+    "long_name": "Algebraic Geometry",
+    "description": "Algebraic varieties, stacks, sheaves, schemes, moduli spaces, complex geometry, quantum cohomology",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.AG/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "math.AP",
+    "long_name": "Analysis of PDEs",
+    "description": "Existence and uniqueness, boundary conditions, linear and non-linear operators, stability, soliton theory, integrable PDE's, conservation laws, qualitative dynamics",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.AP/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "math.AT",
+    "long_name": "Algebraic Topology",
+    "description": "Homotopy theory, homological algebra, algebraic treatments of manifolds",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.AT/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "math.CA",
+    "long_name": "Classical Analysis and ODEs",
+    "description": "Special functions, orthogonal polynomials, harmonic analysis, ODE's, differential relations, calculus of variations, approximations, expansions, asymptotics",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.CA/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "math.CO",
+    "long_name": "Combinatorics",
+    "description": "Discrete mathematics, graph theory, enumeration, combinatorial optimization, Ramsey theory, combinatorial game theory",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.CO/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "math.CT",
+    "long_name": "Category Theory",
+    "description": "Enriched categories, topoi, abelian categories, monoidal categories, homological algebra",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.CT/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "math.CV",
+    "long_name": "Complex Variables",
+    "description": "Holomorphic functions, automorphic group actions and forms, pseudoconvexity, complex geometry, analytic spaces, analytic sheaves",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.CV/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "math.DG",
+    "long_name": "Differential Geometry",
+    "description": "Complex, contact, Riemannian, pseudo-Riemannian and Finsler geometry, relativity, gauge theory, global analysis",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.DG/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "math.DS",
+    "long_name": "Dynamical Systems",
+    "description": "Dynamics of differential equations and flows, mechanics, classical few-body problems, iterations, complex dynamics, delayed differential equations",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.DS/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "math.FA",
+    "long_name": "Functional Analysis",
+    "description": "Banach spaces, function spaces, real functions, integral transforms, theory of distributions, measure theory",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.FA/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "math.GM",
+    "long_name": "General Mathematics",
+    "description": "Mathematical material of general interest, topics not covered elsewhere",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.GM/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "math.GN",
+    "long_name": "General Topology",
+    "description": "Continuum theory, point-set topology, spaces with algebraic structure, foundations, dimension theory, local and global properties",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.GN/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "math.GR",
+    "long_name": "Group Theory",
+    "description": "Finite groups, topological groups, representation theory, cohomology, classification and structure",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.GR/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "math.GT",
+    "long_name": "Geometric Topology",
+    "description": "Manifolds, orbifolds, polyhedra, cell complexes, foliations, geometric structures",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.GT/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "math.HO",
+    "long_name": "History and Overview",
+    "description": "Biographies, philosophy of mathematics, mathematics education, recreational mathematics, communication of mathematics, ethics in mathematics",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.HO/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "math.IT",
+    "long_name": "Information Theory",
+    "description": "math",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.IT/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "math.KT",
+    "long_name": "K-Theory and Homology",
+    "description": "Algebraic and topological K-theory, relations with topology, commutative algebra, and operator algebras",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.KT/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "math.LO",
+    "long_name": "Logic",
+    "description": "Logic, set theory, point-set topology, formal mathematics",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.LO/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "math.MG",
+    "long_name": "Metric Geometry",
+    "description": "Euclidean, hyperbolic, discrete, convex, coarse geometry, comparisons in Riemannian geometry, symmetric spaces",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.MG/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "math.MP",
+    "long_name": "Mathematical Physics",
+    "description": "math",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.MP/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "math.NA",
+    "long_name": "Numerical Analysis",
+    "description": "Numerical algorithms for problems in analysis and algebra, scientific computation",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.NA/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "math.NT",
+    "long_name": "Number Theory",
+    "description": "Prime numbers, diophantine equations, analytic number theory, algebraic number theory, arithmetic geometry, Galois theory",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.NT/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "math.OA",
+    "long_name": "Operator Algebras",
+    "description": "Algebras of operators on Hilbert space, C^*-algebras, von Neumann algebras, non-commutative geometry",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.OA/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "math.OC",
+    "long_name": "Optimization and Control",
+    "description": "Operations research, linear programming, control theory, systems theory, optimal control, game theory",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.OC/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "math.PR",
+    "long_name": "Probability",
+    "description": "Theory and applications of probability and stochastic processes: e",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.PR/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "math.QA",
+    "long_name": "Quantum Algebra",
+    "description": "Quantum groups, skein theories, operadic and diagrammatic algebra, quantum field theory",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.QA/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "math.RA",
+    "long_name": "Rings and Algebras",
+    "description": "Non-commutative rings and algebras, non-associative algebras, universal algebra and lattice theory, linear algebra, semigroups",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.RA/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "math.RT",
+    "long_name": "Representation Theory",
+    "description": "Linear representations of algebras and groups, Lie theory, associative algebras, multilinear algebra",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.RT/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "math.SG",
+    "long_name": "Symplectic Geometry",
+    "description": "Hamiltonian systems, symplectic flows, classical integrable systems",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.SG/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "math.SP",
+    "long_name": "Spectral Theory",
+    "description": "Schrodinger operators, operators on manifolds, general differential operators, numerical studies, integral operators, discrete models, resonances, non-self-adjoint operators, random operators/matrices",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.SP/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "math.ST",
+    "long_name": "Statistics Theory",
+    "description": "Applied, computational and theoretical statistics: e",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/math.ST/new"
+      }
+    ],
+    "main_category": "mathematics"
+  },
+  {
+    "short_name": "cs.AI",
+    "long_name": "Artificial Intelligence",
+    "description": "Covers all areas of AI except Vision, Robotics, Machine Learning, Multiagent Systems, and Computation and Language (Natural Language Processing), which have separate subject areas",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.AI/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.AR",
+    "long_name": "Hardware Architecture",
+    "description": "Covers systems organization and hardware architecture",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.AR/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.CC",
+    "long_name": "Computational Complexity",
+    "description": "Covers models of computation, complexity classes, structural complexity, complexity tradeoffs, upper and lower bounds",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.CC/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.CE",
+    "long_name": "Computational Engineering, Finance, and Science",
+    "description": "Covers applications of computer science to the mathematical modeling of complex systems in the fields of science, engineering, and finance",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.CE/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.CG",
+    "long_name": "Computational Geometry",
+    "description": "Roughly includes material in ACM Subject Classes I",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.CG/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.CL",
+    "long_name": "Computation and Language",
+    "description": "Covers natural language processing",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.CL/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.CR",
+    "long_name": "Cryptography and Security",
+    "description": "Covers all areas of cryptography and security including authentication, public key cryptosytems, proof-carrying code, etc",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.CR/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.CV",
+    "long_name": "Computer Vision and Pattern Recognition",
+    "description": "Covers image processing, computer vision, pattern recognition, and scene understanding",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.CV/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.CY",
+    "long_name": "Computers and Society",
+    "description": "Covers impact of computers on society, computer ethics, information technology and public policy, legal aspects of computing, computers and education",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.CY/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.DB",
+    "long_name": "Databases",
+    "description": "Covers database management, datamining, and data processing",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.DB/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.DC",
+    "long_name": "Distributed, Parallel, and Cluster Computing",
+    "description": "Covers fault-tolerance, distributed algorithms, stabilility, parallel computation, and cluster computing",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.DC/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.DL",
+    "long_name": "Digital Libraries",
+    "description": "Covers all aspects of the digital library design and document and text creation",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.DL/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.DM",
+    "long_name": "Discrete Mathematics",
+    "description": "Covers combinatorics, graph theory, applications of probability",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.DM/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.DS",
+    "long_name": "Data Structures and Algorithms",
+    "description": "Covers data structures and analysis of algorithms",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.DS/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.ET",
+    "long_name": "Emerging Technologies",
+    "description": "Covers approaches to information processing (computing, communication, sensing) and bio-chemical analysis based on alternatives to silicon CMOS-based technologies, such as nanoscale electronic, photonic, spin-based, superconducting, mechanical, bio-chemical and quantum technologies (this list is not exclusive)",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.ET/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.FL",
+    "long_name": "Formal Languages and Automata Theory",
+    "description": "Covers automata theory, formal language theory, grammars, and combinatorics on words",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.FL/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.GL",
+    "long_name": "General Literature",
+    "description": "Covers introductory material, survey material, predictions of future trends, biographies, and miscellaneous computer-science related material",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.GL/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.GR",
+    "long_name": "Graphics",
+    "description": "Covers all aspects of computer graphics",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.GR/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.GT",
+    "long_name": "Computer Science and Game Theory",
+    "description": "Covers all theoretical and applied aspects at the intersection of computer science and game theory, including work in mechanism design, learning in games (which may overlap with Learning), foundations of agent modeling in games (which may overlap with Multiagent systems), coordination, specification and formal methods for non-cooperative computational environments",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.GT/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.HC",
+    "long_name": "Human-Computer Interaction",
+    "description": "Covers human factors, user interfaces, and collaborative computing",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.HC/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.IR",
+    "long_name": "Information Retrieval",
+    "description": "Covers indexing, dictionaries, retrieval, content and analysis",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.IR/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.IT",
+    "long_name": "Information Theory",
+    "description": "Covers theoretical and experimental aspects of information theory and coding",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.IT/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.LG",
+    "long_name": "Machine Learning",
+    "description": "Papers on all aspects of machine learning research (supervised, unsupervised, reinforcement learning, bandit problems, and so on) including also robustness, explanation, fairness, and methodology",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.LG/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.LO",
+    "long_name": "Logic in Computer Science",
+    "description": "Covers all aspects of logic in computer science, including finite model theory, logics of programs, modal logic, and program verification",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.LO/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.MA",
+    "long_name": "Multiagent Systems",
+    "description": "Covers multiagent systems, distributed artificial intelligence, intelligent agents, coordinated interactions",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.MA/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.MM",
+    "long_name": "Multimedia",
+    "description": "Roughly includes material in ACM Subject Class H",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.MM/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.MS",
+    "long_name": "Mathematical Software",
+    "description": "Roughly includes material in ACM Subject Class G",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.MS/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.NA",
+    "long_name": "Numerical Analysis",
+    "description": "cs",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.NA/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.NE",
+    "long_name": "Neural and Evolutionary Computing",
+    "description": "Covers neural networks, connectionism, genetic algorithms, artificial life, adaptive behavior",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.NE/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.NI",
+    "long_name": "Networking and Internet Architecture",
+    "description": "Covers all aspects of computer communication networks, including network architecture and design, network protocols, and internetwork standards (like TCP/IP)",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.NI/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.OH",
+    "long_name": "Other Computer Science",
+    "description": "This is the classification to use for documents that do not fit anywhere else",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.OH/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.OS",
+    "long_name": "Operating Systems",
+    "description": "Roughly includes material in ACM Subject Classes D",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.OS/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.PF",
+    "long_name": "Performance",
+    "description": "Covers performance measurement and evaluation, queueing, and simulation",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.PF/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.PL",
+    "long_name": "Programming Languages",
+    "description": "Covers programming language semantics, language features, programming approaches (such as object-oriented programming, functional programming, logic programming)",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.PL/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.RO",
+    "long_name": "Robotics",
+    "description": "Roughly includes material in ACM Subject Class I",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.RO/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.SC",
+    "long_name": "Symbolic Computation",
+    "description": "Roughly includes material in ACM Subject Class I",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.SC/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.SD",
+    "long_name": "Sound",
+    "description": "Covers all aspects of computing with sound, and sound as an information channel",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.SD/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.SE",
+    "long_name": "Software Engineering",
+    "description": "Covers design tools, software metrics, testing and debugging, programming environments, etc",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.SE/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.SI",
+    "long_name": "Social and Information Networks",
+    "description": "Covers the design, analysis, and modeling of social and information networks, including their applications for on-line information access, communication, and interaction, and their roles as datasets in the exploration of questions in these and other domains, including connections to the social and biological sciences",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.SI/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "cs.SY",
+    "long_name": "Systems and Control",
+    "description": "cs",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/cs.SY/new"
+      }
+    ],
+    "main_category": "computer_science"
+  },
+  {
+    "short_name": "q-bio.BM",
+    "long_name": "Biomolecules",
+    "description": "DNA, RNA, proteins, lipids, etc",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/q-bio.BM/new"
+      }
+    ],
+    "main_category": "quantitative_biology"
+  },
+  {
+    "short_name": "q-bio.CB",
+    "long_name": "Cell Behavior",
+    "description": "Cell-cell signaling and interaction; morphogenesis and development; apoptosis; bacterial conjugation; viral-host interaction; immunology",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/q-bio.CB/new"
+      }
+    ],
+    "main_category": "quantitative_biology"
+  },
+  {
+    "short_name": "q-bio.GN",
+    "long_name": "Genomics",
+    "description": "DNA sequencing and assembly; gene and motif finding; RNA editing and alternative splicing; genomic structure and processes (replication, transcription, methylation, etc); mutational processes",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/q-bio.GN/new"
+      }
+    ],
+    "main_category": "quantitative_biology"
+  },
+  {
+    "short_name": "q-bio.MN",
+    "long_name": "Molecular Networks",
+    "description": "Gene regulation, signal transduction, proteomics, metabolomics, gene and enzymatic networks",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/q-bio.MN/new"
+      }
+    ],
+    "main_category": "quantitative_biology"
+  },
+  {
+    "short_name": "q-bio.NC",
+    "long_name": "Neurons and Cognition",
+    "description": "Synapse, cortex, neuronal dynamics, neural network, sensorimotor control, behavior, attention",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/q-bio.NC/new"
+      }
+    ],
+    "main_category": "quantitative_biology"
+  },
+  {
+    "short_name": "q-bio.OT",
+    "long_name": "Other Quantitative Biology",
+    "description": "Work in quantitative biology that does not fit into the other q-bio classifications",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/q-bio.OT/new"
+      }
+    ],
+    "main_category": "quantitative_biology"
+  },
+  {
+    "short_name": "q-bio.PE",
+    "long_name": "Populations and Evolution",
+    "description": "Population dynamics, spatio-temporal and epidemiological models, dynamic speciation, co-evolution, biodiversity, foodwebs, aging; molecular evolution and phylogeny; directed evolution; origin of life",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/q-bio.PE/new"
+      }
+    ],
+    "main_category": "quantitative_biology"
+  },
+  {
+    "short_name": "q-bio.QM",
+    "long_name": "Quantitative Methods",
+    "description": "All experimental, numerical, statistical and mathematical contributions of value to biology",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/q-bio.QM/new"
+      }
+    ],
+    "main_category": "quantitative_biology"
+  },
+  {
+    "short_name": "q-bio.SC",
+    "long_name": "Subcellular Processes",
+    "description": "Assembly and control of subcellular structures (channels, organelles, cytoskeletons, capsules, etc",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/q-bio.SC/new"
+      }
+    ],
+    "main_category": "quantitative_biology"
+  },
+  {
+    "short_name": "q-bio.TO",
+    "long_name": "Tissues and Organs",
+    "description": "Blood flow in vessels, biomechanics of bones, electrical waves, endocrine system, tumor growth",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/q-bio.TO/new"
+      }
+    ],
+    "main_category": "quantitative_biology"
+  },
+  {
+    "short_name": "q-fin.CP",
+    "long_name": "Computational Finance",
+    "description": "Computational methods, including Monte Carlo, PDE, lattice and other numerical methods with applications to financial modeling",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/q-fin.CP/new"
+      }
+    ],
+    "main_category": "quantitative_finance"
+  },
+  {
+    "short_name": "q-fin.EC",
+    "long_name": "Economics",
+    "description": "q-fin",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/q-fin.EC/new"
+      }
+    ],
+    "main_category": "quantitative_finance"
+  },
+  {
+    "short_name": "q-fin.GN",
+    "long_name": "General Finance",
+    "description": "Development of general quantitative methodologies with applications in finance",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/q-fin.GN/new"
+      }
+    ],
+    "main_category": "quantitative_finance"
+  },
+  {
+    "short_name": "q-fin.MF",
+    "long_name": "Mathematical Finance",
+    "description": "Mathematical and analytical methods of finance, including stochastic, probabilistic and functional analysis, algebraic, geometric and other methods",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/q-fin.MF/new"
+      }
+    ],
+    "main_category": "quantitative_finance"
+  },
+  {
+    "short_name": "q-fin.PM",
+    "long_name": "Portfolio Management",
+    "description": "Security selection and optimization, capital allocation, investment strategies and performance measurement",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/q-fin.PM/new"
+      }
+    ],
+    "main_category": "quantitative_finance"
+  },
+  {
+    "short_name": "q-fin.PR",
+    "long_name": "Pricing of Securities",
+    "description": "Valuation and hedging of financial securities, their derivatives, and structured products",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/q-fin.PR/new"
+      }
+    ],
+    "main_category": "quantitative_finance"
+  },
+  {
+    "short_name": "q-fin.RM",
+    "long_name": "Risk Management",
+    "description": "Measurement and management of financial risks in trading, banking, insurance, corporate and other applications",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/q-fin.RM/new"
+      }
+    ],
+    "main_category": "quantitative_finance"
+  },
+  {
+    "short_name": "q-fin.ST",
+    "long_name": "Statistical Finance",
+    "description": "Statistical, econometric and econophysics analyses with applications to financial markets and economic data",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/q-fin.ST/new"
+      }
+    ],
+    "main_category": "quantitative_finance"
+  },
+  {
+    "short_name": "q-fin.TR",
+    "long_name": "Trading and Market Microstructure",
+    "description": "Market microstructure, liquidity, exchange and auction design, automated trading, agent-based modeling and market-making",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/q-fin.TR/new"
+      }
+    ],
+    "main_category": "quantitative_finance"
+  },
+  {
+    "short_name": "stat.AP",
+    "long_name": "Applications",
+    "description": "Biology, Education, Epidemiology, Engineering, Environmental Sciences, Medical, Physical Sciences, Quality Control, Social Sciences",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/stat.AP/new"
+      }
+    ],
+    "main_category": "statistics"
+  },
+  {
+    "short_name": "stat.CO",
+    "long_name": "Computation",
+    "description": "Algorithms, Simulation, Visualization",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/stat.CO/new"
+      }
+    ],
+    "main_category": "statistics"
+  },
+  {
+    "short_name": "stat.ME",
+    "long_name": "Methodology",
+    "description": "Design, Surveys, Model Selection, Multiple Testing, Multivariate Methods, Signal and Image Processing, Time Series, Smoothing, Spatial Statistics, Survival Analysis, Nonparametric and Semiparametric Methods",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/stat.ME/new"
+      }
+    ],
+    "main_category": "statistics"
+  },
+  {
+    "short_name": "stat.ML",
+    "long_name": "Machine Learning",
+    "description": "Covers machine learning papers (supervised, unsupervised, semi-supervised learning, graphical models, reinforcement learning, bandits, high dimensional inference, etc",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/stat.ML/new"
+      }
+    ],
+    "main_category": "statistics"
+  },
+  {
+    "short_name": "stat.OT",
+    "long_name": "Other Statistics",
+    "description": "Work in statistics that does not fit into the other stat classifications",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/stat.OT/new"
+      }
+    ],
+    "main_category": "statistics"
+  },
+  {
+    "short_name": "stat.TH",
+    "long_name": "Statistics Theory",
+    "description": "stat",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/stat.TH/new"
+      }
+    ],
+    "main_category": "statistics"
+  },
+  {
+    "short_name": "eess.AS",
+    "long_name": "Audio and Speech Processing",
+    "description": "Theory and methods for processing signals representing audio, speech, and language, and their applications",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/eess.AS/new"
+      }
+    ],
+    "main_category": "electrical_engineering"
+  },
+  {
+    "short_name": "eess.IV",
+    "long_name": "Image and Video Processing",
+    "description": "Theory, algorithms, and architectures for the formation, capture, processing, communication, analysis, and display of images, video, and multidimensional signals in a wide variety of applications",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/eess.IV/new"
+      }
+    ],
+    "main_category": "electrical_engineering"
+  },
+  {
+    "short_name": "eess.SP",
+    "long_name": "Signal Processing",
+    "description": "Theory, algorithms, performance analysis and applications of signal and data analysis, including physical modeling, processing, detection and parameter estimation, learning, mining, retrieval, and information extraction",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/eess.SP/new"
+      }
+    ],
+    "main_category": "electrical_engineering"
+  },
+  {
+    "short_name": "eess.SY",
+    "long_name": "Systems and Control",
+    "description": "This section includes theoretical and experimental research covering all facets of automatic control systems",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/eess.SY/new"
+      }
+    ],
+    "main_category": "electrical_engineering"
+  },
+  {
+    "short_name": "econ.EM",
+    "long_name": "Econometrics",
+    "description": "Econometric Theory, Micro-Econometrics, Macro-Econometrics, Empirical Content of Economic Relations discovered via New Methods, Methodological Aspects of the Application of Statistical Inference to Economic Data",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/econ.EM/new"
+      }
+    ],
+    "main_category": "economics"
+  },
+  {
+    "short_name": "econ.GN",
+    "long_name": "General Economics",
+    "description": "General methodological, applied, and empirical contributions to economics",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/econ.GN/new"
+      }
+    ],
+    "main_category": "economics"
+  },
+  {
+    "short_name": "econ.TH",
+    "long_name": "Theoretical Economics",
+    "description": "Includes theoretical contributions to Contract Theory, Decision Theory, Game Theory, General Equilibrium, Growth, Learning and Evolution, Macroeconomics, Market and Mechanism Design, and Social Choice",
+    "links": [
+      {
+        "text": "new",
+        "href": "https://arxiv.org/list/econ.TH/new"
+      }
+    ],
+    "main_category": "economics"
+  }
+]
